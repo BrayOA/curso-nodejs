@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "colors": "^1.4.0",
+    "lodash": "^4.17.21"
+  }
+}
