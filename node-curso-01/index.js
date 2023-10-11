@@ -16,24 +16,24 @@
 // console.log(user);
 // console.log(PI);
 
-// const age = 110;
+const age = 19;
 
-// if (age >= 18) {
-//   console.log("eres aduto");
-// } else if (age >= 13) {
-//   console.log("eres adolecente");
-// } else {
-//   console.log("eres menor");
-// }
+if (age >= 18) {
+  console.log("eres aduto");
+} else if (age >= 13) {
+  console.log("eres adolecente");
+} else {
+  console.log("eres menor");
+}
 
-// const names = ["joe", "jhon", "marco"];
+const names = ["joe", "jhon", "marco"];
 
-// for (let i = 0; i < names.length; i++) {
-//   console.log(names[i]);
-// }
+for (let i = 0; i < names.length; i++) {
+  console.log(names[i]);
+}
 
-const showUserInfi = (userName, userAge) =>
-  `The username is ${userName},the user is ${userAge} years olds`;
+// const showUserInfi = (userName, userAge) =>
+//   `The username is ${userName},the user is ${userAge} years olds`;
 
-console.log(showUserInfi("jhoe", 30));
-console.log(showUserInfi("jhoe", 20));
+// console.log(showUserInfi("jhoe", 30));
+// console.log(showUserInfi("jhoe", 20));
